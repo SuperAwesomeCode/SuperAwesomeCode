@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{DF8D50E2-6B47-41EE-AE48-6DCE7F06465A}</ProjectGuid>
+    <ProjectGuid>{73B0A57B-C411-4C62-AD4C-B59D5663071F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SuperAwesomeCode</RootNamespace>
